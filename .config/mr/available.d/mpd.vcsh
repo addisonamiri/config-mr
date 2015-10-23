@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/mpd.git]
+checkout = vcsh clone git@github.com:addisonamiri/config-mpd.git
